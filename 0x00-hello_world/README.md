@@ -1,0 +1,2 @@
+This is the README file for the hello_world folder
+The 0-preprocessor script runs a C file through the preprocessor and save the result into another file.
