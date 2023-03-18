@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * Description: Print the random number when either positive, negative, or zero.
+/**
+ * Description: Print the random number when either 
+ * positive, negative, or zero.
  *
  * Return: 0 (Success)
  */
