@@ -4,3 +4,4 @@ The 1-last_digit.c program will  print the last digit of the number stored in th
 The 2-print_alphabet.c program prints the alphabet in lowercase, followed by a new line.
 The 3-print_alphabets.c program prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 The 4-print_alphabt.c program prints the alphabet in lowercase, except q and e, followed by a new line.
+The 5-print_numbers.c program prints all single digit numbers of base 10 starting from 0, followed by a new line.
