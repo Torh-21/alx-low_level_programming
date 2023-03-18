@@ -1,8 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-
+#include <stdio.h>
 /* Betty style doc for function main goes there */
+/*
+ * main - determines if the random number is positive, negative, or zero
+ *
+ * Return: 0 (Success)
+ */
 int main(void)
 {
 	int n;
