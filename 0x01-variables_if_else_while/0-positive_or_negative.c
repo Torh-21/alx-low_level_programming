@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Description: Print the value of a random number
+ * main - Print the value of a random number
  *
  * Return: 0 (Success)
  */
