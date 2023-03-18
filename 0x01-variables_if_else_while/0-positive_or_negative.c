@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Description: Print the random number when either 
- * positive, negative, or zero.
+ * Description: Print the value of a random number
  *
  * Return: 0 (Success)
  */
