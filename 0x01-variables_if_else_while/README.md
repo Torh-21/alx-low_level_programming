@@ -3,3 +3,4 @@ The 0-positive_or_negative.c program will assign a random number to the variable
 The 1-last_digit.c program will  print the last digit of the number stored in the variable n.
 The 2-print_alphabet.c program prints the alphabet in lowercase, followed by a new line.
 The 3-print_alphabets.c program prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+The 4-print_alphabt.c program prints the alphabet in lowercase, except q and e, followed by a new line.
