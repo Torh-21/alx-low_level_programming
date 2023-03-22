@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * main - prints the alphabet, followed by a new line
+ * print_alphabet - prints the alphabet, followed by a new line
  *
  * Return: 0 (Success)
  */
 void print_alphabet(void)
 {
-	int i;
+	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
