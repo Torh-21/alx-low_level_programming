@@ -5,3 +5,4 @@ The 2-mul.c function multiplies two integers.
 The 3-print_numbers.c function prints the numbers, from 0 to 9, followed by a new line.
 The 4-print_most_numbers.c function prints the numbers, from 0 to 9, followed by a new line. Excluding 2 and 4.
 The 5-more_numbers.c function prints 10 times the numbers, from 0 to 14, followed by a new line.
+The 6-print_line.c function prints draws a straight line in the terminal.
