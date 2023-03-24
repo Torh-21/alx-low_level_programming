@@ -7,3 +7,4 @@ The 4-print_most_numbers.c function prints the numbers, from 0 to 9, followed by
 The 5-more_numbers.c function prints 10 times the numbers, from 0 to 14, followed by a new line.
 The 6-print_line.c function prints draws a straight line in the terminal.
 The 7-print_diagonal.c function draws a diagonal line on the terminal.
+The 8-print_square.c function  prints a square, followed by a new line.
