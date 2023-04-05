@@ -4,3 +4,4 @@ The 1-memcpy.c function copies memory area.
 The 2-strchr.c function locates a character in a string.
 The 3-strspn.c function  gets the length of a prefix substring.
 The 4-strpbrk.c function searches a string for any of a set of bytes.
+The 5-strstr.c function locates a substring.
