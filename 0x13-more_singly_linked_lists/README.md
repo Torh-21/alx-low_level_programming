@@ -4,3 +4,4 @@ The 1-listint_len.c function returns the number of elements in a linked listint_
 The 2-add_nodeint.c function  adds a new node at the beginning of a listint_t list.
 The 3-add_nodeint_end.c function adds a new node at the end of a listint_t list.
 The 4-free_listint.c function frees a listint_t list.
+The 5-free_listint2.c function frees a listint_t list and sets the head to NULL.
