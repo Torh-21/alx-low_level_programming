@@ -8,3 +8,4 @@ The 5-free_listint2.c function frees a listint_t list and sets the head to NULL.
 The 6-pop_listint.c function deletes the head node of a listint_t linked list, and returns the head node’s data (n).
 The 7-get_nodeint.c function returns the nth node of a listint_t linked list.
 The 8-sum_listint.c function returns the sum of all the data (n) of a listint_t linked list.
+The 9-insert_nodeint.c function inserts a new node at a given position.
