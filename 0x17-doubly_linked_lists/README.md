@@ -4,3 +4,5 @@ The 1-dlistint_len.c function returns the number of elements in a linked dlistin
 The 2-add_dnodeint.c function adds a new node at the beginning of a dlistint_t list.
 The 3-add_dnodeint_end.c function adds a new node at the end of a dlistint_t list.
 The 4-free_dlistint.c function frees a dlistint_t list.
+The 5-get_dnodeint.c function returns the nth node of a dlistint_t linked list.
+
