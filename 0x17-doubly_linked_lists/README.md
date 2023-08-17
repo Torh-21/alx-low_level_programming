@@ -6,4 +6,4 @@ The 3-add_dnodeint_end.c function adds a new node at the end of a dlistint_t lis
 The 4-free_dlistint.c function frees a dlistint_t list.
 The 5-get_dnodeint.c function returns the nth node of a dlistint_t linked list.
 The 6-sum_dlistint.c function returns the sum of all the data (n) of a dlistint_t linked list.
-The 
+The 7-insert_dnodeint.c function inserts a new node at a given position. 
